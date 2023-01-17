@@ -35,14 +35,14 @@ HenCoder 绘制 1 练习项目
 ## 完成預覽圖
 
 
-###SAMSUNG GALAXY Note 5
+### SAMSUNG GALAXY Note 5
 
 
-####直方圖
+#### 直方圖
 
 ![image](https://github.com/azrael8576/PracticeDraw1/blob/master/images/histogram.png)
 
 
-####圓餅圖
+#### 圓餅圖
 
 ![image](https://github.com/azrael8576/PracticeDraw1/blob/master/images/pie_chart.png)
